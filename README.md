@@ -14,15 +14,11 @@
 
 AI-powered products — from architecture to deployment. Not demos, not prototypes — things that run in production and solve real problems for real users.
 
-```python
-artem = {
-    "ai": ["LangChain", "LangGraph", "OpenAI API", "RAG", "vector search"],
-    "automation": ["n8n", "aiogram", "Telegram bots", "webhook pipelines"],
-    "frontend": ["Next.js", "React", "TypeScript"],
-    "backend": ["FastAPI", "Python", "REST APIs"],
-    "looking_for": "freelance projects · remote worldwide"
-}
-```
+- **AI:** LangChain · LangGraph · OpenAI API · RAG · vector search
+- **Automation:** n8n · aiogram · Telegram bots · webhook pipelines
+- **Frontend:** Next.js · React · TypeScript
+- **Backend:** FastAPI · Python · REST APIs
+- **Looking for:** freelance projects · remote worldwide
 
 ---
 
@@ -51,23 +47,6 @@ artem = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" alt="Artem Morozov GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=artemmorozov1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" alt="Most used languages in Artem Morozov public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemmorozov1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/artemmorozov1/artemmorozov1/output/github-contribution-grid-snake-dark.svg" alt="Artem Morozov contribution graph snake animation" />
 </div>
 
 ---
